@@ -1,16 +1,28 @@
 {
-    "name":"@custom/react-hooks-collection",
-    "version":"1.0.0",
+    "name": "@jas-wini/react-hooks-collection",
+    "version": "1.0.0",
     "description": "A collection of reusable react hooks for everday development",
-    "main":"src/index.js",
-    "keywords":["react","hooks","react-hooks","custom-hooks"],
-    "author":"Jaswini",
-    "license":"MIT",
-    "repository":{
-        "type":"git",
-        "url":"https://github.com/jas-wini/react-hooks-collection"
+    "main": "src/index.js",
+    "keywords": [
+        "react",
+        "hooks",
+        "react-hooks",
+        "custom-hooks"
+    ],
+    "author": "Jaswini",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jas-wini/react-hooks-collection.git"
     },
     "peerDependencies": {
-        "react":">=16.8.0"
-    }
+        "react": ">=16.8.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/jas-wini/react-hooks-collection/issues"
+    },
+    "homepage": "https://github.com/jas-wini/react-hooks-collection#readme"
 }

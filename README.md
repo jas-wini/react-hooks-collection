@@ -3,4 +3,4 @@ A set of reusable, production-ready custom React hooks 🚀
 
 ## Installation
 ```bash
-npm install @custom/react-hooks-collection
+npm install @jas-wini/react-hooks-collection
