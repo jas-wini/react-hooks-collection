@@ -1,0 +1,9 @@
+# Don’t publish unnecessary stuff to npm
+node_modules/
+__tests__/
+src/
+examples/
+.vscode/
+.DS_Store
+.gitignore
+README.md
