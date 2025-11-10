@@ -1,0 +1,16 @@
+{
+    "name":"@custom/react-hooks-collection",
+    "version":"1.0.0",
+    "description": "A collection of reusable react hooks for everday development",
+    "main":"src/index.js",
+    "keywords":["react","hooks","react-hooks","custom-hooks"],
+    "author":"Jaswini",
+    "license":"MIT",
+    "repository":{
+        "type":"git",
+        "url":""
+    },
+    "peerDependencies": {
+        "react":">=16.8.0"
+    }
+}
